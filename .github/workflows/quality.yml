@@ -2,7 +2,7 @@ name: Calendario Maya Expo validation
 
 on:
   push:
-    branches: [ci/verify-expo-20261123]
+    branches: [main]
   pull_request:
     branches: [main]
 
